@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Your Personal Web Assistance
 image: /img/be-happy-1.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Your Personal Web Assistance
+subheading: Focus More on Your Business
 mainpitch:
   title: Why Kaldi
   description: >
